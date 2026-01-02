@@ -2,17 +2,13 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
 </p> -->
 
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Mohamed Salem KH
-========================================================================================================================================
+Hi I’m Mohamed Salem KH
 
-* 🌍  I'm based in Mauritania
-* 🖥️  See my portfolio at [MyPortfilio](http://mohamedsalemkh.me)
----
-<h1 align="center">
+<!-- <h1 align="center">
  Let's Connect and have a Chat! 💬
-</h1>
+</h1> -->
 
-<p align="center">
+<!-- <p align="center">
 <a href="https://www.dev.to/medsalem" target="_blank" rel="noreferrer">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto-dark.svg" />
@@ -26,9 +22,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" />
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" />
 </picture>
-</a>
+</a> -->
 
-<a href="https://www.linkedin.com/in/mohamed-salem-kh" target="_blank" rel="noreferrer">
+<!-- <a href="https://www.linkedin.com/in/mohamed-salem-kh" target="_blank" rel="noreferrer">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
 <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
@@ -56,9 +52,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" />
 </picture>
 </a>
-</p>
+</p> -->
 
----
+
 
  <!--  ### TryHackMe
 
